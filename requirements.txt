@@ -1,0 +1,5 @@
+h5py
+Keras
+numpy
+opencv-python
+sklearn
